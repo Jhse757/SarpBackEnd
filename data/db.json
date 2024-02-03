@@ -1655,64 +1655,78 @@
     "id_trainer": 1,
     "id_usuario": 216,
     "id_area": 4,
+    "documento":1000000001, 
     "nombre": "AlejandroTorres Sánchez",
     "fecha_creacion": "25/01/2023",
     "fecha_retiro": "null",
-    "estado": "enum('activo','no/activo','bloqueado')"
+    "estado": "enum('activo','no/activo','bloqueado')",
+    "puntos_disponibles": 20
    },
    {
     "id_trainer": 2,
     "id_usuario": 217,
     "id_area": 3,
+    "documento":1000000002, 
     "nombre": "Liliana Rivas Castillo",
     "fecha_creacion": "25/01/2023",
     "fecha_retiro": "null",
-    "estado": "enum('activo','no/activo','bloqueado')"
+    "estado": "enum('activo','no/activo','bloqueado')",
+    "puntos_disponibles": 20
    },
    {
     "id_trainer": 3,
     "id_usuario": 218,
     "id_area": 1,
+    "documento":1000000003, 
     "nombre": "Robinson Arroyo Navarro",
     "fecha_creacion": "25/01/2023",
     "fecha_retiro": "null",
-    "estado": "enum('activo','no/activo','bloqueado')"
+    "estado": "enum('activo','no/activo','bloqueado')",
+    "puntos_disponibles": 20
    },
    {
     "id_trainer": 4,
     "id_usuario": 219,
     "id_area": 3,
+    "documento":1000000004,
     "nombre": "Alejandra Ruiz Peralta",
     "fecha_creacion": "25/01/2023",
     "fecha_retiro": "null",
-    "estado": "enum('activo','no/activo','bloqueado')"
+    "estado": "enum('activo','no/activo','bloqueado')",
+    "puntos_disponibles": 20
    },
    {
     "id_trainer": 5,
     "id_usuario": 220,
     "id_area": 2,
+    "documento":1000000005,
     "nombre": "Ronald López Guerrero",
     "fecha_creacion": "25/01/2023",
     "fecha_retiro": "null",
-    "estado": "enum('activo','no/activo','bloqueado')"
+    "estado": "enum('activo','no/activo','bloqueado')",
+    "puntos_disponibles": 20
    },
    {
     "id_trainer": 6,
     "id_usuario": 221,
     "id_area": 4,
+    "documento":1000000006,
     "nombre": "Javier Martín Jiménez",
     "fecha_creacion": "25/01/2023",
     "fecha_retiro": "null",
-    "estado": "enum('activo','no/activo','bloqueado')"
+    "estado": "enum('activo','no/activo','bloqueado')",
+    "puntos_disponibles": 20
    },
    {
     "id_trainer": 7,
     "id_usuario": 222,
     "id_area": 1,
+    "documento":1000000007,
     "nombre": "mauricio orlando canada",
     "fecha_creacion": "25/01/2023",
     "fecha_retiro": "null",
-    "estado": "enum('activo','no/activo','bloqueado')"
+    "estado": "enum('activo','no/activo','bloqueado')",
+    "puntos_disponibles": 20
    }
   ],
   "usuario":[
